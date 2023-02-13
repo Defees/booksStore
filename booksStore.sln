@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "booksStore", "booksStore\booksStore.csproj", "{5D925673-ED54-42E9-913A-5A19B1A7C7DC}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vuecrudoperationsproject", "vueCrudOperationsProject\vuecrudoperationsproject.esproj", "{2843F91C-BA88-493F-9394-B17F175E4800}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{5D925673-ED54-42E9-913A-5A19B1A7C7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D925673-ED54-42E9-913A-5A19B1A7C7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D925673-ED54-42E9-913A-5A19B1A7C7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2843F91C-BA88-493F-9394-B17F175E4800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2843F91C-BA88-493F-9394-B17F175E4800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2843F91C-BA88-493F-9394-B17F175E4800}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2843F91C-BA88-493F-9394-B17F175E4800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2843F91C-BA88-493F-9394-B17F175E4800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2843F91C-BA88-493F-9394-B17F175E4800}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
